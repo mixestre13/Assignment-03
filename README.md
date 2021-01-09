@@ -1,5 +1,4 @@
 ﻿# Assignment-03
-# Assignment-03
 
 # Goal:
 Demonstrate understanding of DOM traversal and DOM manipulation. Build familiarity with JS syntax. Look into: getElementById, querySelector, getElementsByClassName, querySelectorAll, the innerText property, classList.add, className, classList.remove, createElement, appendChild. Section off the code with comments based on the particular part of the prompt you are addressing. 
